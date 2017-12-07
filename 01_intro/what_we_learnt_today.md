@@ -1,0 +1,14 @@
+
+- Why to learn programming
+- Printing
+- Input from user
+- comments
+- data types
+- how numbers are stored in memory
+- compile-time vs run-time
+- If...else condition
+- relational operators
+- type casting
+- while loop
+- multiline comment
+- data types
