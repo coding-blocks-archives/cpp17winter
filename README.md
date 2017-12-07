@@ -13,3 +13,10 @@ Code repository for C++ Beginners Batch starting on 7-Dec-17
 ### Feedback 
 > [http://cb.lk/feedback](http://cb.lk/feedback)
 
+### How to set up Sublime
+> [Learning Environment For C++](https://medium.com/%40aggarwaldeepak/c-learning-environment-3df85a46784b)
+
+### Shortcuts for Sublime
+>[https://github.com/aggarwaldeepak/keyboard_shortcuts/blob/master/sublime-text.md](https://github.com/aggarwaldeepak/keyboard_shortcuts/blob/master/sublime-text.md)
+
+
