@@ -1,0 +1,10 @@
+- fahr to cel using func
+- Reverse a number
+- nRaisedM
+- print primes upto N
+- upper to Lower
+- cnt no of letters
+- cnt no of words, whitespaces
+- 4/7
+- arrays
+- sorting algos
