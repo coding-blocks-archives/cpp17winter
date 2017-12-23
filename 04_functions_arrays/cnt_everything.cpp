@@ -45,7 +45,7 @@ void PrintCnt() {
     if (IsAlpha(c) == true) {
       ++num_alpha;
       word_start = true;
-    } else if (IsDigit(c) == true) {
+    } else if (IsDigit(c)) {
       ++num_digits;
       word_start = true;
     } else if (IsWhitespace(c) == true) {
